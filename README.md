@@ -16,7 +16,7 @@ $ npm create vite@latest
 
 now in package json we can see the scripts we can run by, like with vite dev can run to browser
 
-npm run dev
+$ npm run dev
 
 but we have to make elements to use in pages,
 
